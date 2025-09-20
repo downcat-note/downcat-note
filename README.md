@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 - [dutchbros-map](https://github.com/downcat-note/dutchbros-map)  
   Interactive map using Folium & Leaflet.js (deployed with GitHub Pages)
 
-## 📚 Study Notes
+### 📚 Study Notes
 - [notes](https://github.com/downcat-note/notes)  
   Personal notes on programming, finance, and AI – learning in public
 
-## 🌱 Currently
+### 🌱 Currently
 - Building interactive maps with Python  
 - Reviewing CFA Level II materials  
 - Practicing English conversation daily
 
-## 🔗 Connect
+### 🔗 Connect
 - Blog: www.thedowncat.com  
 - Email: downcat.note@thedowncat.com
+
 
 > “Keep coding, keep learning, keep growing.” ✨
