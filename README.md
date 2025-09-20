@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Downcat 👋
+Exploring data & finance through code | Building, learning and sharing 📚
 <!--
 **downcat-note/downcat-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📌 Featured Projects
+- [dutchbros-map](https://github.com/downcat-note/dutchbros-map)  
+  Interactive map using Folium & Leaflet.js (deployed with GitHub Pages)
+
+## 📚 Study Notes
+- [notes](https://github.com/downcat-note/notes)  
+  Personal notes on programming, finance, and AI – learning in public
+
+## 🌱 Currently
+- Building interactive maps with Python  
+- Reviewing CFA Level II materials  
+- Practicing English conversation daily
+
+## 🔗 Connect
+- Blog: www.thedowncat.com  
+- Email: downcat.note@thedowncat.com
+
+> “Keep coding, keep learning, keep growing.” ✨
