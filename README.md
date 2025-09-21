@@ -1,4 +1,5 @@
-## Hi, I'm Downcat 👋
+### Hi, I'm Downcat
+
 Exploring data & finance through code | Building, learning and sharing 📚
 <!--
 **downcat-note/downcat-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
