@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ### 📌 Featured Projects
-- [dutchbros-map](https://github.com/downcat-note/dutchbros-map)  
-  Interactive map using Folium & Leaflet.js (deployed with GitHub Pages)
+- [dutchbros-map](https://github.com/downcat-note/retail-store-maps)
+  Plotting store maps using Pandas & Folium
 
 ### 📚 Study Notes
 - [notes](https://github.com/downcat-note/notes)  
   Personal notes on programming, finance, and AI – learning in public
 
 ### 🌱 Currently
-- Building interactive maps with Python  
+- Building Retail store maps with Python  
 - Reviewing CFA Level II materials  
 - Practicing English conversation daily
 
